@@ -2,8 +2,7 @@ package Services;
 
 import DOA.CustomerRepository;
 import Model.Customer;
-//import org.springframework.beans.factory.annotation.Autowired;
-import Model.Transaction;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
